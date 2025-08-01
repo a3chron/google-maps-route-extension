@@ -1,0 +1,10 @@
+{
+  "required_api_version": "3",
+  "name": "Google Maps Routes",
+  "description": "Takes an origin & destination and opens google maps searching a route",
+  "developer_name": "a3chron",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  }
+}

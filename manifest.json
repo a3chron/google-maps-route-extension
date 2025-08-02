@@ -11,8 +11,8 @@
     {
       "id": "kw",
       "type": "keyword",
-      "name": "Default Keyword",
-      "description": "",
+      "name": "Maps Routes",
+      "description": "Trigger the maps route extension",
       "default_value": "mapsr"
     }
   ]

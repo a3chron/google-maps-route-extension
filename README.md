@@ -5,7 +5,7 @@ A simple extension to get a ux friendly way of:
 
 Opens this url in the default browser.
 
-For more info check out [Ulauncher](https://ulauncher.io/). //TODO check if url correct
+For more info check out [Ulauncher](https://ulauncher.io/).
 
 ## TODO
 
